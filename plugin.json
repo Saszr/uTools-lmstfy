@@ -2,7 +2,7 @@
   "pluginName": "让我帮你搜索",
   "description": "为什么不问问神奇海螺呢？",
   "preload": "preload.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Saszr",
   "logo": "logo.png",
   "homepage": "https://github.com/Saszr/uTools-lmstfy",
