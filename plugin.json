@@ -1,0 +1,15 @@
+{
+  "pluginName": "让我帮你搜索",
+  "description": "为什么不问问神奇海螺呢？",
+  "preload": "preload.js",
+  "version": "0.0.1",
+  "author": "Saszr",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "lmstfy",
+      "explain": "为什么不问问神奇海螺呢？",
+      "cmds": ["lmstfy", "让我帮你搜索"]
+    }
+  ]
+}
